@@ -1,2 +1,2 @@
 # simple-demo
-this is simple repository training
+modify simple demo
